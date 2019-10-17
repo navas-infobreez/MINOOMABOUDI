@@ -27,9 +27,7 @@
 	
 	.blog-box h3:hover i { padding-left: 10px; }
 	
-	.atom-container .text h1{		
-		font-size: -webkit-xxx-large ; 
-	}
+	
 	
 
 }
@@ -81,10 +79,23 @@
 	.footer-bottom { padding-top: 20px; }
 	.row > .bag-style-c2,.bag-style-c4,.bag-feature-c2 {order : 2}
 	
-	.atom-container .text h1{		
-		font-size: -webkit-xxx-large ; 
-		font-weight: 600;
+	.atom-container{
+	padding-left: 5%;
+    padding-right: 5%;
+   
 	}
+
+.atom-container .text h1{
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+	font-size: 90px; 
+	font-style: normal; 
+	letter-spacing: 60px;
+	font-variant: normal; 
+	font-weight: 100; 
+	line-height: 100px;
+	color: #d36357;
+
+}
 	.indiegogo-content{
 		
 		background-position-x: center;
